@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SportMeeT2</string>
+    <string name="sign_up">Sign-up</string>
+    <string name="sign_in">Sign-in</string>
+    <string name="prompt_email">email</string>
+    <string name="prompt_password">password</string>
+    <string name="connexion">connexion</string>
+    <string name="text">"New Account ? "</string>
+    <string name="enregistrer">enregistrer</string>
+    <string name="prompt_last_name">nom</string>
+    <string name="prompt_first_name">prénom</string>
+    <string name="textview">Authentification</string>
+    <string name="phone">téléphone</string>
+</resources>
